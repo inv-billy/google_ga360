@@ -20,7 +20,7 @@ view: ga_sessions {
 
 
   # SCENARIO 1: Only one property
-  sql_table_name: `120679834.ga_sessions_*` ;;
+  sql_table_name: `33962777.ga_sessions_*` ;;
 
 
 
